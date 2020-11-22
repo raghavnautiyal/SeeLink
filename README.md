@@ -7,6 +7,6 @@ This is the repository for SeeLink [https://seelink.app]. Feel free to create an
 There's a ton of features I've planned for SeeLink. Some of them are:
 
 - Chrome / Firefox extension
-- Minor hanges to the structure of links
+- Minor changes to the structure of links
 - Adding board descriptions
 - Developer API
